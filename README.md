@@ -1,2 +1,2 @@
 # LeetCode
-a mirror of my LeetCode submissions
+A mirror of my LeetCode(https://leetcode.com/merrittlj/) submissions.
